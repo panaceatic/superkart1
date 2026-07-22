@@ -1,0 +1,6 @@
+Product_Id,Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_Type,Product_MRP,Store_Id,Store_Size,Store_Location_City_Type,Store_Type,Store_Age
+FDX07,19.2,Low Sugar,0.075,Snack Foods,249.8,OUT049,Medium,Tier 1,Supermarket Type1,17
+DRN47,15.5,Regular,0.062,Soft Drinks,185.5,OUT017,High,Tier 2,Supermarket Type2,12
+FDA15,9.3,No Sugar,0.081,Dairy,99.9,OUT018,Medium,Tier 3,Food Mart,8
+NCD19,12.0,Regular,0.054,Household,320.75,OUT010,Low,Tier 1,Departmental Store,20
+FDP36,8.8,Low Sugar,0.069,Breakfast,145.25,OUT046,High,Tier 2,Supermarket Type1,15
