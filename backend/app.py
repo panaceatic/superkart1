@@ -7,7 +7,7 @@ import joblib
 # Initialize Flask App
 # ---------------------------------------------------
 
-superkart_app = Flask("Superkart Sales Prediction Model")
+app = Flask("Superkart Sales Prediction Model")
 
 # ---------------------------------------------------
 # Load Trained Model
